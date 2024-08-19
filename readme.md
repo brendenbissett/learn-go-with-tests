@@ -1,5 +1,9 @@
 # Learn Go With Tests
 
+Following Article:
+https://quii.gitbook.io/learn-go-with-tests
+
+
 ## Writing Tests in Go - Rules
 - It needs to be in a file with the `_test.go` suffix
 - The test function must start with the word `Test*`
